@@ -1,3 +1,2 @@
 ﻿  TestProject_for_using_Github.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(700,5): error MSB6006: "CL.exe"이(가) 종료되었습니다(코드: 2).
 D:\3. Github Test Project\TestProject_for_using_Github\framework.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'targetver.h': No such file or directory
